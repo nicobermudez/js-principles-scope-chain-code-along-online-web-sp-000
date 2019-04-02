@@ -6,6 +6,10 @@ function upperCaseCustomerName() {
   customerName = customerName.toUpperCase()
 }
 
+function changeLeastFavoriteCustomer(){
+  leastFavoriteCustomer = 'sour fred'
+}
+
 function setBestCustomer() {
   bestCustomer = 'not bob'
 }
