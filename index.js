@@ -22,7 +22,7 @@ function congratulateCustomer(){
   return `congrats ${favoriteCustomer}`
 }
 
-function attemptTwoFavoriteCustomers(){
+function attemptTwoFavoriteCustomers() {
     let favoriteCustomer = 'bar'
     let favoriteCustomer = 'not bar'
 }
